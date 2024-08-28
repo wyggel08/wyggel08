@@ -1,11 +1,10 @@
 
 # Hi there 👋
 
-I'm freshman student very interested in learning more about programming
+I'm a graduating student and is very interested in learning more about programming
 
 BIO
 
-- ⚙️ I use .cpp and .py
 - 🌍 I'm from the Philippines
 - 🌱 Interested to learn anything
 - 💬 Ping me if you want me to be your apprentice
