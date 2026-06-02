@@ -1,15 +1,18 @@
 
 # Hi there 👋
 
-I'm a graduating student and is very interested in learning more about programming
+I'm Joshua Manrey D. Austral, a College Instructor with a passion for technology, programming, and continuous learning.
 
-BIO
+## BIO
 
-- 🌍 I'm from the Philippines
-- 🌱 Interested to learn anything
-- 💬 Ping me if you want me to be your apprentice
-- 📫 Reach me: twitter.com/Wyggel08
-- ⚡️ Fun fact: I read alot of manga
+- 🎓 College Instructor in Computer Studies
+- 💻 Interested in Programming, Software Development, Data Science, and Emerging Technologies
+- 📚 Dedicated to teaching, mentoring, and helping students grow in their technical skills
+- 🌱 Always learning new technologies and improving my craft
+- 🌍 Based in the Philippines
+- 💬 Open to collaboration, academic discussions, and educational projects
+- ⚡ Fun fact: I enjoy reading manga and exploring new tech tools
+
 
 <!---
 wyggel08/wyggel08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
